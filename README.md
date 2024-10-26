@@ -1,2 +1,2 @@
-# c-_codes
-This repository contains solution to exercise from Lafore oops C++
+# cpp_codes
+This repository contains solutions to exercise from Lafore oops C++
